@@ -1,0 +1,1 @@
+﻿export * from "./Modules/EmployeeManagement.Employees.EmployeeGender"
